@@ -1,6 +1,7 @@
-# self-agent
 
-基于 LLM 的命令行 AI 编程助手。支持工具调用、MCP 协议、Skill 系统、长期记忆、RAG 知识库、多 Agent 协同、沙箱安全隔离。
+# CraftAgent
+
+CraftAgent 是一个 Java 实现的智能编码助手，支持多模型适配、工具调用、ReAct 推理循环、多 Agent 协同与沙箱隔离，提供类似 Claude Code 的终端交互体验。
 
 ---
 
@@ -668,3 +669,4 @@ log:
 ├── skills/                  # 项目级 skill（优先级高于全局）
 └── agents/                  # 项目级 agent
 ```
+
