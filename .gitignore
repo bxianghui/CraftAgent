@@ -1,0 +1,11 @@
+target/
+.idea/
+*.iml
+.DS_Store
+dependency-reduced-pom.xml
+config.yaml
+dist/
+*.jar
+docs/
+install-dist.sh
+
